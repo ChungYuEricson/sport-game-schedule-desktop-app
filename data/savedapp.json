@@ -1,0 +1,56 @@
+{"teams": [
+    {
+        "teamName": "go",
+        "winner": false,
+        "players": [
+            {
+                "firstName": "h",
+                "lastName": "h",
+                "number": 14,
+                "position": "pg",
+                "age": 20
+            },
+            {
+                "firstName": "s",
+                "lastName": "s",
+                "number": 20,
+                "position": "sg",
+                "age": 40
+            },
+            {
+                "firstName": "d",
+                "lastName": "d",
+                "number": 80,
+                "position": "sf",
+                "age": 18
+            },
+            {
+                "firstName": "z",
+                "lastName": "z",
+                "number": 89,
+                "position": "sf",
+                "age": 30
+            }
+        ]
+    },
+    {
+        "teamName": "stop",
+        "winner": false,
+        "players": [
+            {
+                "firstName": "a",
+                "lastName": "a",
+                "number": 0,
+                "position": "c",
+                "age": 20
+            },
+            {
+                "firstName": "m",
+                "lastName": "m",
+                "number": 66,
+                "position": "pf",
+                "age": 23
+            }
+        ]
+    }
+]}

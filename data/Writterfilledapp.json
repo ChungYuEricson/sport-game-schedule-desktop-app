@@ -1,0 +1,33 @@
+{"teams": [
+    {
+        "teamName": "a",
+        "winner": true,
+        "players": [
+            {
+                "firstName": "bob",
+                "lastName": "white",
+                "number": 10,
+                "position": "pg",
+                "age": 20
+            },
+            {
+                "firstName": "alice",
+                "lastName": "chan",
+                "number": 80,
+                "position": "pg",
+                "age": 45
+            }
+        ]
+    },
+    {
+        "teamName": "b",
+        "winner": false,
+        "players": [{
+            "firstName": "cat",
+            "lastName": "hope",
+            "number": 33,
+            "position": "sf",
+            "age": 26
+        }]
+    }
+]}

@@ -1,0 +1,12 @@
+{"teams": [
+    {
+        "teamName": "a",
+        "winner": false,
+        "players": []
+    },
+    {
+        "teamName": "b",
+        "winner": false,
+        "players": []
+    }
+]}
