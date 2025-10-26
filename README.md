@@ -3,21 +3,6 @@
 ### Goal: 
 The project aims to allow anyone to create a quick schedule for sports team. I am interested because I have not seen a lot of program dedicated to provide a convenient way to create a schedule for sport games.
 
-### User Stories:
-
-#### Phase 0 & 1:
-During Phase 0 & 1, the project wants to create a manager to hold information of a match between 2 teams.
-
-- As a user, I want to be able to add players to team
-- As a user, I want to be able to remove players from team
-- As a user, I want to be able to add info of players as I create them.
-- As a user, I want to be able to view info of each player.
-- As a user, I want to be able to view who is on the team.
-- As a user, I want to be able to view by sorting info of players in team. i.e. quick view by player position/ age
-- As a user, I want to be able to update which team won.
-- As a user, I want to be able to save my progress (if I so choose)
-- As a user, I want to be able to be able to load my progress (if I so choose)
-
 ### User flow
 Home&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Default Load</br>
 <img width="250" alt="home" src="https://github.com/user-attachments/assets/bdd02677-9d13-4370-a922-68838ccc3afc" />
@@ -41,7 +26,20 @@ View By Age Result</br>
 <img width="250" alt="viewed-by-age" src="https://github.com/user-attachments/assets/c750a472-f0fb-494a-8203-3c80e070901e" />
 
 ### Instructions for Grader
+### User Stories:
 
+#### Phase 0 & 1:
+During Phase 0 & 1, the project wants to create a manager to hold information of a match between 2 teams.
+
+- As a user, I want to be able to add players to team
+- As a user, I want to be able to remove players from team
+- As a user, I want to be able to add info of players as I create them.
+- As a user, I want to be able to view info of each player.
+- As a user, I want to be able to view who is on the team.
+- As a user, I want to be able to view by sorting info of players in team. i.e. quick view by player position/ age
+- As a user, I want to be able to update which team won.
+- As a user, I want to be able to save my progress (if I so choose)
+- As a user, I want to be able to be able to load my progress (if I so choose)
 - Please select Load Teams, there is already an existing json file, so it is easier to test functionality.
   - You can reload the state of my application by Load Teams
 - Select either manage team1 or team2
@@ -106,3 +104,4 @@ Process finished with exit code 0
 AppGUI is handling how many teams could be made, we could create an extra class, and have a list of teams instead.
 
 This way the code would be easier to understand and the diagram would make more sense.
+
