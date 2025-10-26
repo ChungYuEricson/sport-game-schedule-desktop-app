@@ -1,4 +1,4 @@
-# Sport Games schedule
+# Sport Games Schedule
 
 ### Goal: 
 The project aims to allow anyone to create a quick schedule for sports team. I am interested because I have not seen a lot of program dedicated to provide a convenient way to create a schedule for sport games.
@@ -104,4 +104,5 @@ Process finished with exit code 0
 AppGUI is handling how many teams could be made, we could create an extra class, and have a list of teams instead.
 
 This way the code would be easier to understand and the diagram would make more sense.
+
 
