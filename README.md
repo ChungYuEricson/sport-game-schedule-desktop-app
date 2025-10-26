@@ -18,6 +18,28 @@ During Phase 0 & 1, the project wants to create a manager to hold information of
 - As a user, I want to be able to save my progress (if I so choose)
 - As a user, I want to be able to be able to load my progress (if I so choose)
 
+### User flow
+Home&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Default Load</br>
+<img width="250" alt="home" src="https://github.com/user-attachments/assets/bdd02677-9d13-4370-a922-68838ccc3afc" />
+<img width="250" alt="default-load" src="https://github.com/user-attachments/assets/88aae600-0f1d-4f29-a60c-48347d22c205" /></br>
+Manage Team &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Manage Player</br>
+<img width="250" alt="manage-team" src="https://github.com/user-attachments/assets/b34b61b1-3ef8-4fa1-90d4-7c9196c1bc46" />
+<img width="250" alt="manage-player" src="https://github.com/user-attachments/assets/2887db8e-25be-43e1-9d27-a99c7a68dd3f" /></br>
+Add Player &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Manage Result Add Player</br>
+<img width="250"  alt="add-player" src="https://github.com/user-attachments/assets/923ab083-2b3e-42d5-85c6-58fbe6fbc21f" />
+<img width="250" alt="added-player" src="https://github.com/user-attachments/assets/b94cb1da-11fe-4eef-8e98-fce9179392be" /></br>
+Manage See All Player &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Remove Player</br>
+<img width="250" alt="see-all-players" src="https://github.com/user-attachments/assets/fa0e1766-616a-4db7-8868-dc047e0a115f" />
+<img width="250" alt="remove-player" src="https://github.com/user-attachments/assets/8a8bf75b-d7c2-4dbd-85ea-02ee204d503c" /></br>
+Result Remove Player &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;View By Position</br>
+<img width="250" alt="removed-player" src="https://github.com/user-attachments/assets/303475e3-37ba-486d-a1c7-21cb1b94756c" />
+<img width="250" alt="view-by-position" src="https://github.com/user-attachments/assets/2c0f789e-876d-49b8-b829-3c7657d16983" /></br>
+View By Position Result &emsp;&emsp;&emsp;&emsp;&emsp;View By Age</br>
+<img width="250" alt="viewed-by-position" src="https://github.com/user-attachments/assets/cc3f9568-6d75-4a88-a752-ffdffa342014" />
+<img width="250" alt="view-by-age" src="https://github.com/user-attachments/assets/84ecfb2b-a00f-4ba3-b13c-b5a34a93001e" /></br>
+View By Age Result</br>
+<img width="250" alt="viewed-by-age" src="https://github.com/user-attachments/assets/c750a472-f0fb-494a-8203-3c80e070901e" />
+
 ### Instructions for Grader
 
 - Please select Load Teams, there is already an existing json file, so it is easier to test functionality.
@@ -82,4 +104,5 @@ Process finished with exit code 0
 ### Phase 4: Task 3
 
 AppGUI is handling how many teams could be made, we could create an extra class, and have a list of teams instead.
+
 This way the code would be easier to understand and the diagram would make more sense.
